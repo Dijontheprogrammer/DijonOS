@@ -1,0 +1,22 @@
+
+
+# Update - Log.
+---------------
+# 7-20-25 (Beta release 0.1)
+
+DijonOS is created with very basic and limited options on use. 
+# basic commands added (7/20/25): 
+* help
+* exit
+* shutdown
+* whoami
+* log
+* clear
+* create <filename>
+* delete <filename>
+* rename <old_filename> <new_filename>
+* view <filename>
+* edit <filename>
+* search <keyword>
+* upload_image <filename>
+* BIOS
