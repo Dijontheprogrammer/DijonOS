@@ -10,23 +10,4 @@ Login System: Only users with correct credentials can access the system.
 * Beginner Focus: The code is structured and commented for easy understanding and modification by beginners.
 DijonOS is a great learning project for understanding basic OS concepts, user authentication, file operations, and command-line interfaces in Python.
 
-# Update - Log. 
----------------
-# 7-20-25 (Beta release 0.1)
-
-DijonOS is created with very basic and limited options on use. 
-# basic commands added (7/20/25): 
-* help
-* exit
-* shutdown
-* whoami
-* log
-* clear
-* create <filename>
-* delete <filename>
-* rename <old_filename> <new_filename>
-* view <filename>
-* edit <filename>
-* search <keyword>
-* upload_image <filename>
-* BIOS
+# Please read the attached text file in the download for more information on the commands and updates
